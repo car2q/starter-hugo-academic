@@ -7,4 +7,4 @@ title: Biography
 active: true
 author: admin
 ---
-I'm a philosopher.
+I'm a philosopher interested in minds, and in the science of minds.
